@@ -24,11 +24,9 @@ description: researcher, designer, developer, focusing on histories and intersec
 # List of links in the navigation bar
 navbar-links:
   About: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
-  C2O library & collabtive: "https://c2o-library.net"
+  Publications: "publications"
+  CV: "http://kathleenazali.c2o-library.net/wp-content/uploads/2013/03/CV-KathleenAzali.pdf"
+  Contact: "contact"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -118,7 +116,7 @@ timezone: "Etc/UTC"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 5
+paginate: 20
 
 kramdown:
   input: GFM
