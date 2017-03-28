@@ -61,7 +61,7 @@ author:
 footer-links-active:
   rss: false
   facebook: false
-  email: true
+  email: false
   GPG key: false
   twitter: true
   google-plus: false
