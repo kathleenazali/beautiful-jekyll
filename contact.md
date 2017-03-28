@@ -6,7 +6,7 @@ subtitle: How to reach me
 
 **Email:**  
 k.azali[at]c2o-library[dot]net  
-If you need to contact me over secure communication, here is my [PGP Public key](pgp)
+If you need to contact me over secure communication, here is my [PGP Public key](https://kathleenazali.github.io/pgp/)
 
 **Twitter:**  
 @kathleenazali
@@ -22,4 +22,3 @@ Pasir Panjang, Singapore 119614
 Jl. Dr. Cipto 22  
 Surabaya, Jawa Timur 60264  
 Indonesia
-
