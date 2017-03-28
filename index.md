@@ -10,20 +10,9 @@ Some of my works on these topics have been presented/published in [Networked Res
 
 I juggle many hats, but one that I most often wear is as the founder of [C2O library & collabtive](https://c2o-library.net), an independent library and coworking community space in Surabaya, Indonesia, established in 2008. I hold a Master in Cultural Studies from Airlangga University, with a thesis on alternative libraries—-awarded 2013 Graduate Research Fellowship support from the [Asia Research Institute, National University of Singapore](https://ari.nus.edu.sg/).
 
-## News
+### NEWS
 
 - My chapter, "Digitalising Knowledge: education, libraries, archives," to be published in [Digital Indonesia](www.newmandala.org/digital-indonesia/), April 2017.
 - Presenting on open source softwares in libraries in Indonesia in [FOSSASIA 2017](http://2017.fossasia.org), 17-19 March 2017, Singapore Science Center.
 - Co-presenting e-commerce in Indonesia in [Symposium: E-Commerce, ASEAN Economic Integration, and Competition Policy and Law](https://www.iseas.edu.sg/events/past-events/item/4947-symposium-ecommerce-asean-economic-integration-and-competition-policy-and-law)
 - My paper, "[Cashless in Indonesia: Gelling mobile e-frictions?](https://muse.jhu.edu/article/647394)" published in the _Journal of Southeast Asian Economies_ vol. 33 no. 3.
-
-## Contact
-
-kathleen azali
-C2O library &amp; collabtive
-Jl. Dr. Cipto 22
-Surabaya, Jawa Timur 60264
-Indonesia
-
-Email: k.azali@c2o-library.net
-GPG key: 0x4D5DEE25
