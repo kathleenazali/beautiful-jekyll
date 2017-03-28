@@ -4,22 +4,24 @@ title: Contact
 subtitle: How to reach me
 ---
 
-**Mailing address:**  
-Institute of Southeast Asian Studies (ISEAS)  
-RB/114  
-30 Heng Mui Keng Terrace  
-Pasir Panjang, Singapore 119614
-
-C2O library &amp; collabtive  
-Jl. Dr. Cipto 22  
-Surabaya, Jawa Timur 60264  
-Indonesia
+**Email:**  
+k.azali[at]c2o-library[dot]net
 
 **Twitter:**  
 @kathleenazali
 
-**Email:**  
-k.azali[at]c2o-library[dot]net
+### MAILING ADDRESS
+
+**Institute of Southeast Asian Studies (ISEAS)**  
+RB/114  
+30 Heng Mui Keng Terrace  
+Pasir Panjang, Singapore 119614
+
+**C2O library &amp; collabtive**  
+Jl. Dr. Cipto 22  
+Surabaya, Jawa Timur 60264  
+Indonesia
+
 
 ### GPG Public Key
 **Email:** k.azali[at]c2o-library[dot]net  
