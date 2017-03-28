@@ -4,12 +4,9 @@ title: Contact
 subtitle: How to reach me
 ---
 
-### E-MAIL
-
-k.azali[at]c2o-library[dot]net  
+**E-mail:** k.azali[at]c2o-library[dot]net  
 If you need to contact me over secure communication, here is my [PGP Public key](https://kathleenazali.github.io/pgp/)
-
-Note: I rarely visit my Facebook, so e-mail would be the best way to reach me.
+Please note that I rarely check my Facebook, so e-mail would be the best way to reach me.
 
 ### MAILING ADDRESS
 
