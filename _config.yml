@@ -23,8 +23,8 @@ description: researcher, designer, developer, focusing on histories and intersec
 
 # List of links in the navigation bar
 navbar-links:
-  About: "aboutme"
-  Publications: "publications"
+  About: "https://kathleenazali.c2o-library.net/about/"
+  Publications: "https://kathleenazali.c2o-library.net/publication/"
   CV: "http://kathleenazali.c2o-library.net/wp-content/uploads/2013/03/CV-KathleenAzali.pdf"
   Contact: "contact"
 
