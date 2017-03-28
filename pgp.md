@@ -1,10 +1,10 @@
 ---
 layout: page
 title: PGP key
-subtitle: 
+subtitle: Encrypting your message
 ---
 
-_If you need to contact me privately, you can use my PGP public key below. For an introduction on PGP and how to use it, see Electronic Frontier Foundation's [Introduction to Public Key Cryptography and PGP](https://ssd.eff.org/en/module/introduction-public-key-cryptography-and-pgp)._
+If you need to contact me privately, here is PGP public details. For an introduction on PGP and how to use it, see Electronic Frontier Foundation's [Introduction to Public Key Cryptography and PGP](https://ssd.eff.org/en/module/introduction-public-key-cryptography-and-pgp).
 
 **Email:** k.azali[at]c2o-library[dot]net  
 **Fingerprint:** 602B 1ED0 98F4 72A5 2F54 D388 861B 7E83 4D5D EE25
