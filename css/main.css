@@ -4,7 +4,7 @@
 
 body {
   font-family: 'Courier New', 'Courier', 'Times New Roman', serif;
-  font-size: 18px;
+  font-size: 16px;
   color: #404040;
   position: relative;
   background: #FFF;
@@ -14,19 +14,23 @@ p {
   margin: 30px 0;
 }
 p a {
-  /* text-decoration: underline */
-  color: #008AFF;
+    /* text-decoration: underline; */
+    color: #555;
+    background-color: rgba(152, 250, 255, 0.29);
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Courier New', 'Courier', 'Times New Roman', serif;
   font-weight: 300;
 }
 a {
-  color: #008AFF;
+    /* text-decoration: underline; */
+    color: #555;
+    background-color: rgba(152, 250, 255, 0.29);
 }
 a:hover,
 a:focus {
-  color: #0085a1;
+  color: #111111;
+  text-decoration: underline;
 }
 blockquote {
   color: #808080;
@@ -97,8 +101,8 @@ img {
 /* --- Navbar --- */
 
 .navbar-custom {
-  background: #F5F5F5;
-  border-bottom: 1px solid #EAEAEA;
+  background: #ffffff;
+  /* border-bottom: 1px solid #EAEAEA; */
   font-family: 'Courier New', 'Courier', 'Times New Roman', serif;
 }
 
@@ -110,7 +114,7 @@ img {
 
 .navbar-custom .navbar-brand,
 .navbar-custom .nav li a {
-  font-weight: 800;
+  font-weight: 400;
   color: #404040;
 }
 
@@ -257,8 +261,8 @@ img {
 
 footer {
   padding: 30px 0;
-  background: #F5F5F5;
-  border-top: 1px #EAEAEA solid;
+  background: transparent;
+  /* border-top: 1px #EAEAEA solid; */
   margin-top: 50px;
   font-size: 14px;
 }
@@ -272,7 +276,7 @@ footer .list-inline {
   padding: 0;
 }
 footer .copyright {
-  font-family: Open Sans;
+  font-family: 'Courier New', 'Courier', Serif;
   text-align: center;
   margin-bottom: 0;
 }
@@ -457,15 +461,15 @@ footer .theme-by {
 }
 .intro-header .page-heading h1 {
   margin-top: 0;
-  font-size: 50px;
+  font-size: 16px;
 }
 .intro-header .post-heading h1 {
   margin-top: 0;
-  font-size: 35px;
+  font-size: 16px;
 }
 .intro-header .page-heading .page-subheading,
 .intro-header .post-heading .post-subheading {
-  font-size: 27px;
+  font-size: 16px;
   line-height: 1.1;
   display: block;
   font-family: 'Courier New', 'Courier', 'Times New Roman', serif;
@@ -510,10 +514,10 @@ footer .theme-by {
     padding: 150px 0;
   }  
   .intro-header .page-heading h1 {
-    font-size: 80px;
+    font-size: inherit;
   }
   .intro-header .post-heading h1 {
-    font-size: 50px;
+    font-size: 16px;
   }
   .intro-header.big-img .img-desc {
     font-size: 14px;
