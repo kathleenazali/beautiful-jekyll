@@ -43,7 +43,6 @@ avatar: "/img/kathleen.jpg"
 author:
   name: kathleen azali
   email: "k.azali@c2o-library.net"
-  GPG key: 0x4D5DEE25
   # facebook: yourname  # eg. daattali
   github: kathleenazali    # eg. daattali
   twitter: kathleenazali   # eg. daattali
@@ -60,10 +59,10 @@ author:
 
 # Select which links to show in the footer
 footer-links-active:
-  rss: true
+  rss: false
   facebook: false
   email: true
-  GPG key: true
+  GPG key: false
   twitter: true
   google-plus: false
   github: true
