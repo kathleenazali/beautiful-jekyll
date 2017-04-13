@@ -32,8 +32,7 @@ a:focus {
   text-decoration: underline;
 }
 blockquote {
-  color: #808080;
-  font-style: italic;
+  color: #666666;
 }
 blockquote p:first-child {
   margin-top: 0;
