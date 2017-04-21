@@ -4,10 +4,11 @@ title: PGP key
 subtitle: Encrypting your message
 ---
 
-If you need to contact me privately, here is PGP public details. For an introduction on PGP and how to use it, see Electronic Frontier Foundation's [Introduction to Public Key Cryptography and PGP](https://ssd.eff.org/en/module/introduction-public-key-cryptography-and-pgp).
+If you need to contact me with a Pretty Good Privacy, here is my PGP public detail. For an introduction on PGP and how to use it, see Electronic Frontier Foundation's [Introduction to Public Key Cryptography and PGP](https://ssd.eff.org/en/module/introduction-public-key-cryptography-and-pgp).
 
 **Email:** k.azali[at]c2o-library[dot]net  
-**Fingerprint:** 602B 1ED0 98F4 72A5 2F54 D388 861B 7E83 4D5D EE25
+**Fingerprint:** 602B 1ED0 98F4 72A5 2F54 D388 861B 7E83 4D5D EE25   
+**Public key file:** [4D5DEE25.asc](https://github.com/kathleenazali/kathleenazali.github.io/blob/master/4D5DEE25.asc) 
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
